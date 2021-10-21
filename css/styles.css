@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.form-control {
+  width: 30%;
+}
+
+.btn {
+  background-color: lavenderblush;
+  border: 1px solid black;
+}
