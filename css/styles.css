@@ -10,3 +10,7 @@ body {
   background-color: lavenderblush;
   border: 1px solid black;
 }
+
+#output {
+  margin-top: 20px;
+}

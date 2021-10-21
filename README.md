@@ -1,19 +1,19 @@
-# _{Application Name}_
+# Triangle Tracker
 
-#### By _**{List of contributors}**_
+#### By Frank Proulx
 
-#### _{Brief description of application}_
+#### A site that checks the type of a triangle based on it's sides
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* Javascript
+* JQuery
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+This site will allow you to enter the measurements of the three sides of a triangle, it will then tell you if the triangle is equilateral, isosceles, scalene, or in fact not a triangle.
 
 ## Setup/Installation Requirements
 
@@ -22,12 +22,11 @@ _{This is a detailed description of your application. Give as much detail as nee
 * Type **git clone https://github.com/Frank-Proulx/portfolio-landing** to clone the repository to your local machine.
 * Open the file "index.html" in the newly created "portfolio-landing" folder using either the GUI in your finder window, or typing **cd portfolio-landing** and pressing return to navigate into the project folder, and then typing **open index.html** in the terminal from within the portfolio-landing folder.  
 
-## Link to [GitHub Pages](https://frank-proulx.github.io//)
+## Link to [GitHub Pages](https://frank-proulx.github.io/triangle-tracker/)
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+No known bugs
 
 ## License
 
